@@ -48,6 +48,7 @@
 .menu__lista {
     display: flex;
     justify-content: space-around;
+    padding: 20px 0 15px 0;
 }
 
 .menu__lista li {
