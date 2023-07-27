@@ -1,11 +1,11 @@
 *,
 *::before,
 *::after {
-    --azul-escuro: #6C3428;
-    --azul-medio: #BA704F;
-    --azul-claro: #CEE6F3;
-    --cinza-texto: #4d2118;
-    --cinza-claro: #DFA878;
+    --azul-escuro: #0820A8;
+    --azul-medio: #3145b6;
+    --azul-claro: #304FFF;
+    --cinza-texto: #e9c039;
+    --cinza-claro: #F5C016;
     box-sizing: border-box;
 }
 
@@ -225,12 +225,12 @@ body {
 
 .descricao-video h3 {
     font-weight: 700;
-    color: #444444;
+    color: var(--cinza-texto);
 }
 
 .descricao-video p {
     font-size: 14px;
-    color: #444444;
+    color: var(--cinza-texto);
 }
 
 /* RODAPÉ */
