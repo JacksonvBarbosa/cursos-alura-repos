@@ -1,10 +1,10 @@
 *,
 *::before,
 *::after {
-    --azul-escuro: #461959;
-    --azul-medio: #CD6688;
-    --azul-claro: #AED8CC;
-    --cinza-texto: #7A316F;
+    --azul-escuro: #154580;
+    --azul-medio: #3970BE;
+    --azul-claro: #E5F1FF;
+    --cinza-texto: #444444;
     --cinza-claro: #ECECEC;
     box-sizing: border-box;
 }
